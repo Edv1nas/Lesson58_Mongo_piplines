@@ -9,8 +9,8 @@ Bike Shop is planning to optimize their warehouse operations to improve efficien
 3. Collect the essential information for each inventory item, including its ID, name, and quantity.
 
 #Sales Data [$sort]:
-1. Extract sales data from the database, including customer details, product information, and sales.
-2. Sort the sales data based on specific criteria, such as bike type or sales date.
+1. Sort sales data from the database by date.
+2. Sort the sales data based on specific criteria, such as bike type and sales data.
 
 #Monthly Sales Revenue[$project]:
 1. Retrieve the sales data from the database, transaction date and revenue generated.
